@@ -1,0 +1,46 @@
+.aboutschool {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.aboutschool img {
+    width: 100%;
+}
+
+.aboutschool h5,
+.aboutschool p {
+    margin-left: 20px;
+}
+
+h2{
+    font-size: 30px
+}
+
+.acheivements_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.acheivements_head i {
+    float: right;
+}
+
+.acheivements_text span {
+    color: #ff7700;
+}
+
+.ALumni Images{
+    height: 180px;
+    width: 100px;
+}
+
+#Harryimg{
+    height: 40%;
+    width: 40%;
+}
